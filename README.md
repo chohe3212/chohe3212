@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there👋👋 I'm HyoEun Cho✨
 
 <!--
 **chohe3212/chohe3212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
