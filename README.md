@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <a href="https://www.instagram.com/gydms0320/">
     <img 
-        src="http://img.shields.io/badge/-222222?style=flat&logo=Instagram&link=https://www.instagram.com/gydms0320/"
+        src="http://img.shields.io/badge/-222222?style=flat&logo=Instagram &link=https://www.instagram.com/gydms0320/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 [![Solved.ac
