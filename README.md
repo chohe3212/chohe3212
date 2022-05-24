@@ -41,9 +41,9 @@ Here are some ideas to get you started:
 - 💬 Look around my project [here](http://polaroid.kro.kr)
 - Useful for my project [ColorSearch](https://oldentomato.github.io/ColorSearch/)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oldentomato&layout=compact)](https://github.com/Oldentomato/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oldentomato&layout=compact)](https://github.com/chohe3212/github-readme-stats)
 
 
-[![Oldentomato's github stats](https://github-readme-stats.vercel.app/api?username=Oldentomato&theme=outrun&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Hyoeun's github stats](https://github-readme-stats.vercel.app/api?username=chohe3212&theme=outrun&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
