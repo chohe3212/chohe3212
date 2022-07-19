@@ -21,12 +21,14 @@ Here are some ideas to get you started:
 
 <br>
 <br>
-
-<a align = "center"  href="https://instagram.com/gydms0320">
+<h3 align = "center">✨ Me ✨</h3>
+<p align = "center">
+<a  href="https://instagram.com/gydms0320">
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/gydms0320/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+</p>
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=chohe3212)](https://solved.ac/chohe3212)
 
