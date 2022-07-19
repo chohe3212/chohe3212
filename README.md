@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <br>
 <br>
-<h3 align = "center">✨ Me ✨</h3>
+<h3 align = "center">🤍 Me 🤍</h3>
 <p align = "center">
 <a  href="https://instagram.com/gydms0320">
     <img 
