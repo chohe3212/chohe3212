@@ -1,6 +1,6 @@
 ## Hi there👋
 
-![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=Welcome!&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=Welcome!&fontSize=65)
 
 
 <h3 align = "center">🛠 Tech Stack 🛠</h3>
